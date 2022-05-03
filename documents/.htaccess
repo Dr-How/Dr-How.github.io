@@ -1,0 +1,7 @@
+<Files CV.pdf>
+header set x-robots-tag: noindex
+</Files>
+
+<Files Research.pdf>
+header set x-robots-tag: noindex
+</Files>
