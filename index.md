@@ -10,7 +10,7 @@ As a discrete geometer, I'm interested in polytopes, sphere packings, geometric 
 
 I recently developed interests in differential geometry, mainly on minimal surfaces and constant mean curvature surfaces.  My works in this direction have deep connections with soft-matter physics.
 
-I'm about to Join [The Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) of [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.
+I'm about to join the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) of [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.
 
 See my [CV](./documents/CV.pdf) and [research statement](/.documents/Research.pdf), also my profile pages on [arXiv](http://arxiv.org/a/chen_h_3), [Google Scholar](https://scholar.google.de/citations?user=SdY1GDkAAAAJ), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/982872), [ORCID](https://orcid.org/0000-0003-1087-2868), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55206801800), and [publons](https://publons.com/researcher/3094481/hao-chen/).
 
