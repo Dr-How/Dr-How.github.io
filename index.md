@@ -1,176 +1,136 @@
-# Chen, Hao 陳浩 Dr. rer. nat.  
-	a.k.a. "Dr. How"
+# Chen, Hao 陳浩 Priv.-Doz. Dr. rer. nat. habil.  
 
-![](./documents/ChenHao.jpeg)
+![](./images/ChenHao.jpeg)
 
 Welcome to my academic page!
 
 ## About me
 
-I am a post-doc on discrete geometry, recently moved to Discrete Mathematics
-section at [Technishce Universiteit Eindhoven](http://www.tue.nl), Netherlands,
-for a short visit.
+As a discrete geometer, I'm interested in polytopes, sphere packings, geometric representation of graphs and so on, preferably in non-Euclidean and high dimensional spaces.
 
-I obtained my Dr.\ rer.\ nat.\ in Aug 2014 at [Freie Universität
-Berlin](http://www.fu-berlin.de/) in Germany, under the supervision of Prof.
-[Günter M. Ziegler](http://page.mi.fu-berlin.de/gmziegler/). Before that, I was
-a polytechnicien at [Ecole Polytechnique](http://www.polytechnique.fr) in
-France, where I begin my adventure in mathematics.  Initially I studied physics
-for my bachelor at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and
-part of my master at [Ecole Normale Supérieure](http://www.ens.fr).  See my
-[CV](./documents/CV.pdf).
+I recently developed interests in differential geometry, mainly on minimal surfaces and constant mean curvature surfaces.  My works in this direction have deep connections with soft-matter physics.
 
-I was born in Shanghai.   My mother languages are Mandarin and Wu.  I also
-speak English and French, and can communicate with German.  I'm married and my
-wife is currently a chemical physicist at Max Planck Institut.  I maintain
-a moderate presence on
-[MathOverflow](http://mathoverflow.net/users/20595/hao-chen) and a very weak
-presence on other social networks.
+I'm about to Join [The Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) of [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.
 
-###Contact
+See my [CV](./documents/CV.pdf) and [research statement](/.documents/Research.pdf), also my profile pages on [arXiv](http://arxiv.org/a/chen_h_3), [Google Scholar](https://scholar.google.de/citations?user=SdY1GDkAAAAJ), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/982872), [ORCID](https://orcid.org/0000-0003-1087-2868), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55206801800), and [publons](https://publons.com/researcher/3094481/hao-chen/).
+
+#### Contact
 
 	hao.chen.math@gmail.com
 
-## Research
+## Selected Publications
 
-My research interest is [discrete
-geometry](http://en.wikipedia.org/wiki/Discrete_geometry).  It lies in the
-intersection of combinatorics and geometry, and also connects to algebra.
+#### Minimal surfaces
 
-The topic of my
-[thesis](http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000097216)[![PDF][pdf]](./documents/Thesis.pdf)
-is the combinatorics of non-congruent ball packings in higher dimensions.  The
-main object of study is the tangency graph of ball packings.  The motivation is
-[Koebe–Andreev–Thurston’s disk packing
-theorem](http://en.wikipedia.org/wiki/Circle_packing_theorem).  My thesis made
-a contribution to the understanding of higher dimensional ball packings.  My
-research diverges into many branches of discrete geometry and geometric group
-theory, including distance geometry, polytope theory, geometric representation
-of graphs, coding theory, hyperplane arrangement and Coxeter groups.  This
-opens many possibilities for future research.
+* **Helicoids and vortices**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2201.13091)
+	[![PDF][pdf]](./documents/Vortices.pdf)  
+	with Daniel Freese.
 
-For my post-doctoral research, I continued on hyperbolic Coxeter groups, made
-some progress on the chromatic problem of ball packings, and also worked on
-scribability problems.  Currently I'm working on nested simplices and
-non-negative factorizations of matrices, and also jointed a project about three
-periodic minimal surfaces.
+* **Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2107.06957)
+	[![PDF][pdf]](./documents/SinglyTower.pdf)  
 
-### Publications
-[arXiv](http://arxiv.org/a/chen_h_3), [Google](https://scholar.google.de/citations?user=SdY1GDkAAAAJ)
+* **Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2103.15676)
+	[![PDF][pdf]](./documents/TriplyTower.pdf)  
+	with [Martin Traizet][traizet].
 
-#### Published or accepted
+* [**Existence of the rhombohedral and tetragonal deformation families of the gyroid**](https://doi.org/10.1512/iumj.2021.70.8505)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1901.04006)
+	[![PDF][pdf]](./documents/tGrGL.pdf)  
+	in *Indiana Univ. Math. J.*
 
-@. *Ball packings with high chromatic numbers from strongly regular graphs*
-	[![arXiv][arxiv]](http://arxiv.org/abs/1502.02070)
-	[![PDF][pdf]](./documents/SRG.pdf)  
-	to appear in **Discrete Mathematics**
+* [**Stacking disorder in periodic minimal surfaces**](https://doi.org/10.1137/20M1312137)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1908.06276)
+	[![PDF][pdf]](./documents/Disorder.pdf)  
+	in *SIAM J. Math. Anal.*, with [Martin Traizet][traizet].
 
-@. *Scribability problems for polytopes*
+* [**An orthorhombic deformation family of Schwarz' H surfaces**](https://doi.org/10.1090/tran/8275)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1807.10631)
+	[![PDF][pdf]](./documents/oH.pdf)  
+	in *Trans. Amer. Math. Soc.*, with [Matthias Weber][weber].
+
+* [**A new deformation family of Schwarz' D surface**](https://doi.org/10.1090/tran/8274)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1804.01442)
+	[![PDF][pdf]](./documents/oD.pdf)  
+	in *Trans. Amer. Math. Soc.*, with [Matthias Weber][weber].
+
+* [**Minimal Twin Surfaces**](https://doi.org/10.1080/10586458.2017.1413455)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1610.07926)
+	[![PDF][pdf]](./documents/Twin.pdf)  
+	in *Exp. Math.*
+
+#### Discrete Geometry
+
+* **Weakly Inscribed Polyhedra**
+	[![arXiv][arxiv]](http://arxiv.org/abs/1709.10389)
+	[![PDF][pdf]](./documents/Steiner.pdf)  
+	to appear in *Trans. Amer. Math. Soc. Ser. B*, with [Jean-Marc Schlenker][schlenker].
+
+* [**Selectively Balancing Unit Vectors**](https://doi.org/10.1007/s00493-016-3635-z)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1605.05121)
+	[![PDF][pdf]](./documents/Balancing.pdf)  
+	in *Combinatorica*, with [Aart Blokhuis][blokhuis].
+
+* [**Scribability problems for polytopes**](https://doi.org/10.1016/j.ejc.2017.02.006)
 	[![arXiv][arxiv]](http://arxiv.org/abs/1508.03537)
 	[![PDF][pdf]](./documents/Scribability.pdf)  
-	to appear in **European Journal of Combinatorics**
-	with [Arnau Padrol][padrol]
+	in *European J. Combin.*, with [Arnau Padrol][padrol].
 
-@. *Limit Directions for Lorentzian Coxeter Systems*
-	[![arXiv][arxiv]](http://arxiv.org/abs/1403.1502)
-	[![PDF][pdf]](./documents/LimitDir.pdf)  
-	to appear in **Groups, Geometry, and Dynamics**
-	with [Jean-Philippe Labbé][labbe]
+* [**Ball packings with high chromatic numbers from strongly regular graphs**](https://doi.org/10.1016/j.disc.2017.03.006)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1502.02070)
+	[![PDF][pdf]](./documents/SRG.pdf)  
+	in *Discrete Math.*
 
-@. [*Selectively Balancing Unit Vectors*](http://dx.doi.org/10.1007/s00493-016-3635-z)
-	[![arXiv][arxiv]](http://arxiv.org/abs/1605.05121)
-	[![PDF][pdf]](./documents/Balancing.pdf) (online 2017)  
-	on **Combinatorica**
-	with [Aart Blokhuis][aart]
-
-	We prove that, to asymptotically nlogn/2 unit vectors of dimension n,
-	one can assign positive, negative or zero signs, such that the signed
-	sum of the vectors has a Euclidean norm smaller than 1.  This is
-	however not possible, asymptotically, with less unit vectors.
-
-@. [*Even more infinite ball packings from Lorentzian Coxeter systems*](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v23i3p16)
+* [**Even More Infinite Ball Packings from Lorentzian Root Systems**](https://doi.org/10.37236/4989)
 	[![arXiv][arxiv]](http://arxiv.org/abs/1408.2439)
 	[![PDF][pdf]](./documents/MorePack.pdf)  
-	on **The Electronic Journal of Combinatorics** (2016)
+	in *Electron. J. Combin.*
 
-	Boyd-Maxwell ball packings are generalized to Lorentzian root systems
-	where the simple roots are only required to be positively independent.
-	This leads to many more infinite ball packings, as we partially
-	enumerated in the paper.  Source code available
-	[here](https://github.com/Dr-How/L2Graph).
+* [**Limit Directions for Lorentzian Coxeter Systems**](https://doi.org/10.4171/GGD/404)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1403.1502)
+	[![PDF][pdf]](./documents/LimitDir.pdf)  
+	in *Groups Geom. Dyn.*, with [Jean-Philippe Labbé][labbe]
 
-@. [*Apollonian ball packings and stacked polytopes*](http://dx.doi.org/10.1007/s00454-016-9777-3)
-	[![arXiv][arxiv]](http://arxiv.org/abs/1306.2515)
-	[![PDF][pdf]](./documents/Stacked.pdf)  
-	on **Discrete and Computational Geometry** (2016)
-
-	The relation between stacked polytopes and Apollonian ball packings is
-	investigated.  It is proved that the skeleton of a stacked 4-polytope is
-	3-ball packable if an only if there is no six 4-cliques sharing a 3-clique.
-	Partial results are obtained in higher dimensions.
-
-@. [*Distance geometry for kissing spheres*](http://dx.doi.org/10.1016/j.laa.2015.04.012)
-	[![arXiv][arxiv]](http://arxiv.org/abs/1203.2131)
-	[![PDF][pdf]](./documents/DistGeom.pdf)  
-	on **Linear Algebra and its Applications** (2015)
-
-	I define a Möbius-invariant distance function for the set of kissing
-	spheres and studied the associated distance geometry.  It turns out to be
-	a generalization of the Classical Euclidean distance geometry.
-
-@. [*Lorentzian Coxeter systems and Boyd–Maxwell ball packings*](http://dx.doi.org/10.1007/s10711-014-0004-1)
+* [**Lorentzian Coxeter systems and Boyd-Maxwell ball packings**](http://doi.org/10.1007/s10711-014-0004-1)
 	[![arXiv][arxiv]](http://arxiv.org/abs/1310.8608)
 	[![PDF][pdf]](./documents/BoydPack.pdf)  
-	on **Geometriae Dedicata** (2014)
-	with [Jean-Philippe Labbé][labbe]
+	in *Geom. Dedicata*, with [Jean-Philippe Labbé][labbe]
 
-	We revisit the work of Boyd (1974) and Maxwell (1982) on infinite ball
-	packings and relate them to the recent studies of limit roots.  In
-	particular, we publish the complete list of 326 Coxeter groups of level 2.
-	An extended abstract appeared in the [Proceeding of FPSAC
-	2014](http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/article/view/dmAT0110).
-	[Here](https://github.com/Dr-How/L2Graph) is the
-	[Sage](http://www.sagemath.org/) code for enumerating Coxeter graphs of
-	level 2.  This work was cited on [this Wikipedia
-	page](http://en.wikipedia.org/wiki/Coxeter%E2%80%93Dynkin_diagram#Lorentzian_groups).
+* [**Apollonian Ball Packings and Stacked Polytopes**](https://doi.org/10.1007/s00454-016-9777-3)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1306.2515)
+	[![PDF][pdf]](./documents/Stacked.pdf)  
+	in *Discrete Comput. Geom.*
 
-@. [*Minimum vertex covers and the spectrum of the normalized Laplacian on trees*](http://dx.doi.org/10.1016/j.laa.2012.04.005)
-	[![arXiv][arxiv]](http://arxiv.org/abs/1010.4269)
-	[![PDF][pdf]](./documents/TreeLapl.pdf)  
-	on **Linear Algebra and its Applications** (2012)
-	with [Jürgen Jost][jost]
-	
-	We investigate the structural information of trees encoded by the
-	eigenvalue 1 of the normalized Laplacian. This work was done during my
-	research internship at [MPI for maths in sciences](http://www.mis.mpg.de).
+#### Physics
 
-#### Submitted
+* [**Direct imaging of the structural transition and interconversion of macroporous bicontinuous diamond-surface structure**](https://doi.org/10.1016/j.micromeso.2021.111084)
+	[![PDF][pdf]](./documents/L-DD.pdf)  
+	in *Micropor. Mesopor. Mat.*, with Chao Bao, Shun'ai Che, Lu Han
 
-@. *Competition brings out the best: Modeling the frustration between curvature energy and chain stretching energy of lyotropic liquid crystals in bicontinuous cubic phases* (2017)
-	[![arXiv][arXiv]](https://arxiv.org/abs/1702.04172)  
-	with Chenyu Jin (my wife)
-	
-@. *Minimal Twin Surfaces* (2016)
-	[![arXiv][arXiv]](https://arxiv.org/abs/1610.07926)
-	[![PDF][pdf]](./documents/Twin.pdf)
+* [**Self-Assembly of Single Diamond Surface Networks**](https://doi.org/10.1002/anie.202102056)
+	[![PDF][pdf]](./documents/SD-SG.pdf)  
+	in *Angew. Chem. Int.*, with Qingqing Sheng, Wenting Mao, Congcong Cui, Shun'ai Che, Lu Han
 
-#### Preprint
+* [**Competition brings out the best: modelling the frustration between curvature energy and chain stretching energy of lyotropic liquid crystals in bicontinuous cubic phases**](http://doi.org/10.1098/rsfs.2016.0114)
+	[![arXiv][arxiv]](http://arxiv.org/abs/1702.04172)
+	[![PDF][pdf]](./documents/Bilayer.pdf)  
+	in *Interface Focus*, with [Chenyu Jin](https://scholar.google.de/citations?user=4rlI2JsAAAAJ).
 
-@. *Another proof of Oscar Rojo's theorems* (2010)
-	[![arXiv][arXiv]](http://arxiv.org/abs/1011.3361)
-	with [Jürgen Jost][jost]
+* [**Crystal twinning of bicontinuous cubic structures**](https://doi.org/10.1107/S2052252519017287)
+	[![PDF][pdf]](./documents/HLTwin.pdf)  
+	in *IUCrJ*, with Lu Han, Nobuhisa Fujita, Chenyu Jin, Osamu Terasaki, Shun'ai Che.
 
-#### and when I was a physicist ...
-
-@. [*Long lifetime of nanobubbles due to high inner density*](http://dx.doi.org/10.1007/s11433-008-0026-5)  
-	on **Science in China Series G: Physics, Mechanics and Astronomy** (2008) with Lijuan Zhang et al.
-
- [aart]: http://www.win.tue.nl/~aartb/
+ [schlenker]: http://math.uni.lu/schlenker/
+ [weber]: http://pages.iu.edu/~matweber/
+ [traizet]: http://www.lmpt.univ-tours.fr/~traizet/
+ [blokhuis]: http://www.win.tue.nl/~aartb/
  [padrol]: http://page.mi.fu-berlin.de/arnaupadrol/
  [jost]: http://www.mis.mpg.de/jjost/juergen-jost.html
  [labbe]: http://page.mi.fu-berlin.de/labbe/
- [pdf]: ./icons/pdf.png
- [arxiv]: ./icons/arXiv.ico
+ [pdf]: ./images/pdf.png
+ [arxiv]: ./images/arXiv.ico
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
