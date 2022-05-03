@@ -99,7 +99,7 @@ These two papers show, respectively, two new 2-dimensional families of triply pe
 	[![PDF][pdf]](./documents/Twin.pdf)  
 	in *Exp. Math.*
 
-In the first paper, we report some minimal surfaces that can be seen as copies of a triply periodic minimal surface (TPMS) related by reflections in parallel mirrors. We call them minimal twin surfaces for the resemblance with twin crystal. Brakke’s Surface Evolver is employed to construct twinnings of various classical TPMS, including Schwarz’ Primitive (P) and Diamond (D) surfaces, their rhombohedral deformations (rPD), and Schoen’s Gyroid (G) surface. Our numerical results provide strong evidences for the mathematical existence of D twins and G twins, which are recently observed in experiment by material scientists. For rPD twins, we develop a good understanding, by noticing examples previously constructed by [Traizet 08] and [Fujimori and Weber 09]. Our knowledge on G twins is, by contrast, very limited. Nevertheless, our experiments lead to new cubic polyhedral models for the D and G surfaces, inspired by which we speculate new TPMS deformations in the framework of Traizet.<br>
+We report some minimal surfaces that can be seen as copies of a triply periodic minimal surface (TPMS) related by reflections in parallel mirrors. We call them minimal twin surfaces for the resemblance with twin crystal. Brakke’s Surface Evolver is employed to construct twinnings of various classical TPMS, including Schwarz’ Primitive (P) and Diamond (D) surfaces, their rhombohedral deformations (rPD), and Schoen’s Gyroid (G) surface. Our numerical results provide strong evidences for the mathematical existence of D twins and G twins, which are recently observed in experiment by material scientists. For rPD twins, we develop a good understanding, by noticing examples previously constructed by [Traizet 08] and [Fujimori and Weber 09]. Our knowledge on G twins is, by contrast, very limited. Nevertheless, our experiments lead to new cubic polyhedral models for the D and G surfaces, inspired by which we speculate new TPMS deformations in the framework of Traizet.<br>
 </tr>
 </table>
 
@@ -245,7 +245,7 @@ It is commonly considered that the frustration between the curvature energy and 
 	in *IUCrJ*  
 	with Lu Han, Nobuhisa Fujita, Chenyu Jin, Osamu Terasaki, Shun'ai Che.
 
-The second paper is a collaboration with physicists.  We performed an in-depth analysis of the twinning structures observed in experiments.
+A collaboration with physicists.  We performed an in-depth analysis of the twinning structures observed in experiments.
 </tr>
 
 <tr>
