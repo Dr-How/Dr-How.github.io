@@ -111,10 +111,10 @@ We report some minimal surfaces that can be seen as copies of a triply periodic 
 <td style="text-align:right" width="200">
 ![](images/WeakInscribe.jpg)
 <td>
-@. **Weakly Inscribed Polyhedra**
+@. [**Weakly Inscribed Polyhedra**](http://dx.doi.org/10.1090/btran/59)
 	[![arXiv][arxiv]](http://arxiv.org/abs/1709.10389)
 	[![PDF][pdf]](./documents/Steiner.pdf)  
-	to appear in *Trans. Amer. Math. Soc. Ser. B*  
+	in *Trans. Amer. Math. Soc. Ser. B*  
 	with [Jean-Marc Schlenker][schlenker].
 
 We study convex polyhedra in the projective 3-space with all their vertices on a sphere. We do not require, in particular, that the polyhedra lie in the interior of the sphere, hence the term "weakly inscribed". Such polyhedra can be interpreted as ideal polyhedra, if we regard the projective space as a combination of the hyperbolic space and the de Sitter space, with the sphere as the common ideal boundary. We have three main results: (1) the 1-skeleta of weakly inscribed polyhedra are characterized in a purely combinatorial way, (2) the exterior dihedral angles are characterized by linear programming, and (3) we also describe the hyperbolic-de Sitter structure induced on the boundary of weakly inscribed polyhedra.
