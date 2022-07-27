@@ -20,6 +20,18 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 
 <tr>
 <td style="text-align:right" width="200">
+![](images/132.jpeg)
+<td>
+@. **Catenoid limits of saddle towers**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
+	[![PDF][pdf]](./documents/Vortices.pdf)  
+	with [Peter Connor][connor] and Kevin Li.
+
+We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we construct families of embedded, singly periodic Karcher--Scherk saddle towers that look like parallel planes connected by small catenoid necks.
+</tr>
+
+<tr>
+<td style="text-align:right" width="200">
 ![](images/Kobayashi.png)
 <td>
 @. **Helicoids and vortices**
@@ -263,6 +275,7 @@ This is our attempt to fight against the trend of problematic studies being anno
 
 </table>
 
+ [connor]: https://pconnor.pages.iu.edu/
  [schlenker]: http://math.uni.lu/schlenker/
  [weber]: http://pages.iu.edu/~matweber/
  [traizet]: http://www.lmpt.univ-tours.fr/~traizet/
