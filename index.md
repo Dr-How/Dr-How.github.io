@@ -1,12 +1,20 @@
-% Chen, Hao 陳浩 Priv.-Doz. Dr. rer. nat. habil.  
+% Chen, Hao 陳浩 Dr. rer. nat. habil.  
 %
 %
 
-	Email: hao.chen.math@gmail.com
+    Assistant Professor, 
+    Institute of Mathematical Sciences,
+    ShanghaiTech University,
+    393 Middle Huaxia Road,
+    Pudong, Shanghai, 201210, China
+     Tel: +86 21 20680940
+    Mail: chenhao5@shanghaitech.edu.cn
+    Mail: hao.chen.math@gmail.com
+     Web: https://dr-how.github.io/
 
 ![](./images/ChenHao.jpeg)
 
-I'm about to join the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.  I worked at the [Discrete Differential Geometry Lab](http://ddg.math.uni-goettingen.de/) of the [Georg-August-Univerität Göttingen](https://www.uni-goettingen.de/), funded by DFG individual grant under the project ["Defects in Triply Periodic Minimal Surfaces" (Projekt number 398759432)](http://gepris.dfg.de/gepris/projekt/398759432).  Before that, I worked at or visited MSRI (Berkeley), Luxembourg, St Andrews, Eindhoven, and FU Berlin.
+I just joined the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.  I worked at the [Discrete Differential Geometry Lab](http://ddg.math.uni-goettingen.de/) of the [Georg-August-Univerität Göttingen](https://www.uni-goettingen.de/), funded by DFG individual grant under the project ["Defects in Triply Periodic Minimal Surfaces" (Projekt number 398759432)](http://gepris.dfg.de/gepris/projekt/398759432).  Before that, I worked at or visited MSRI (Berkeley), Luxembourg, St Andrews, Eindhoven, and FU Berlin.
 
 I get my PhD at the Free University of Berlin in discrete geometry.  My interest in this direction include polytopes, sphere packings and so on, preferably in non-Euclidean and high dimensional spaces.  I was recently habilitated at the University of Göttingen for differential geometric works, mainly on minimal surfaces and their applications in material sciences.
 
