@@ -14,7 +14,9 @@
 
 ![](./images/ChenHao.jpeg)
 
-I just joined the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.  I worked at the [Discrete Differential Geometry Lab](http://ddg.math.uni-goettingen.de/) of the [Georg-August-Univerität Göttingen](https://www.uni-goettingen.de/), funded by DFG individual grant under the project ["Defects in Triply Periodic Minimal Surfaces" (Projekt number 398759432)](http://gepris.dfg.de/gepris/projekt/398759432).  Before that, I worked at or visited MSRI (Berkeley), Luxembourg, St Andrews, Eindhoven, and FU Berlin.
+I just joined the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.
+
+I worked at the [Discrete Differential Geometry Lab](http://ddg.math.uni-goettingen.de/) of the [Georg-August-Univerität Göttingen](https://www.uni-goettingen.de/), funded by DFG individual grant under the project ["Defects in Triply Periodic Minimal Surfaces" (Projekt number 398759432)](http://gepris.dfg.de/gepris/projekt/398759432).  There, I get my Habilitation in June 2021.  Before that, I worked at or visited MSRI (Berkeley), Luxembourg, St Andrews, Eindhoven, and FU Berlin.
 
 I get my PhD at the Free University of Berlin in discrete geometry.  My interest in this direction include polytopes, sphere packings and so on, preferably in non-Euclidean and high dimensional spaces.  I was recently habilitated at the University of Göttingen for differential geometric works, mainly on minimal surfaces and their applications in material sciences.
 
@@ -40,18 +42,6 @@ We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we co
 
 <tr>
 <td style="text-align:right" width="200">
-![](images/Kobayashi.png)
-<td>
-@. **Helicoids and vortices**
-	[![arXiv][arxiv]](http://arxiv.org/abs/2201.13091)
-	[![PDF][pdf]](./documents/Vortices.pdf)  
-	with Daniel Freese.
-
-We show that the interaction between helicoids during a gluing construction is the same as the interaction between point vortices in 2D fluids. As a consequence, we obtained many new examples of minimal surfaces and some new examples of vortex crystals. Photo on the left is by Toshio Kobayashi 小林敏雄 in the photo album 流れ―写真集. It corresponds to the rPD minimal surface.
-</tr>
-
-<tr>
-<td style="text-align:right" width="200">
 ![](images/HT.jpeg)
 <td>
 @. **Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**
@@ -64,6 +54,19 @@ We show that the interaction between helicoids during a gluing construction is t
 	with [Martin Traizet][traizet].
 
 We glue saddle towers into minimal surfaces without any assumption on the symmetry.  In particular, we reveal a subtle vertical interaction between the tower, which was not perceived in previous constructions.  This is the first paper presenting such our construction.  We discovered many new triply and singly periodic minimal surfaces.  For singly periodic ones, we address the technical issue of embeddedness when Scherk ends are initially parallel.  Fig. on the left from <a href="https://minimalsurfaces.blog/home/repository/triply-periodic/schoen-h-t/">Matthias Weber's repository</a>.
+</tr>
+
+<tr>
+<td style="text-align:right" width="200">
+![](images/Kobayashi.png)
+<td>
+@. [**Helicoids and vortices**](https://doi.org/10.1098/rspa.2022.0431)
+	[![arXiv][arxiv]](http://arxiv.org/abs/2201.13091)
+	[![PDF][pdf]](./documents/Vortices.pdf)  
+	in *Proc. R. Soc. A.*  
+	with Daniel Freese.
+
+We show that the interaction between helicoids during a gluing construction is the same as the interaction between point vortices in 2D fluids. As a consequence, we obtained many new examples of minimal surfaces and some new examples of vortex crystals. Photo on the left is by Toshio Kobayashi 小林敏雄 in the photo album 流れ―写真集. It corresponds to the rPD minimal surface.
 </tr>
 
 <tr>
