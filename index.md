@@ -14,7 +14,7 @@
 
 ![](./images/ChenHao.jpeg)
 
-I just joined the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/) as an Assistant Professor.
+I'm an Assistant Professor at the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/).
 
 I worked at the [Discrete Differential Geometry Lab](http://ddg.math.uni-goettingen.de/) of the [Georg-August-Univerität Göttingen](https://www.uni-goettingen.de/), funded by DFG individual grant under the project ["Defects in Triply Periodic Minimal Surfaces" (Projekt number 398759432)](http://gepris.dfg.de/gepris/projekt/398759432).  There, I get my Habilitation in June 2021.  Before that, I worked at or visited MSRI (Berkeley), Luxembourg, St Andrews, Eindhoven, and FU Berlin.
 
@@ -34,7 +34,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 <td>
 @. **Catenoid limits of saddle towers**
 	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
-	[![PDF][pdf]](./documents/Vortices.pdf)  
+	[![PDF][pdf]](./documents/DegenerateTower.pdf)  
 	with [Peter Connor][connor] and Kevin Li.
 
 We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we construct families of embedded, singly periodic Karcher--Scherk saddle towers that look like parallel planes connected by small catenoid necks.
