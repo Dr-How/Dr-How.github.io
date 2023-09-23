@@ -30,18 +30,6 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 
 <tr>
 <td style="text-align:right" width="200">
-![](images/132.jpeg)
-<td>
-@. **Catenoid limits of saddle towers**
-	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
-	[![PDF][pdf]](./documents/DegenerateTower.pdf)  
-	with [Peter Connor][connor] and Kevin Li.
-
-We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we construct families of embedded, singly periodic Karcher--Scherk saddle towers that look like parallel planes connected by small catenoid necks.
-</tr>
-
-<tr>
-<td style="text-align:right" width="200">
 ![](images/HT.jpeg)
 <td>
 @. **Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**
@@ -54,6 +42,18 @@ We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we co
 	with [Martin Traizet][traizet].
 
 We glue saddle towers into minimal surfaces without any assumption on the symmetry.  In particular, we reveal a subtle vertical interaction between the tower, which was not perceived in previous constructions.  This is the first paper presenting such our construction.  We discovered many new triply and singly periodic minimal surfaces.  For singly periodic ones, we address the technical issue of embeddedness when Scherk ends are initially parallel.  Fig. on the left from <a href="https://minimalsurfaces.blog/home/repository/triply-periodic/schoen-h-t/">Matthias Weber's repository</a>.
+</tr>
+
+<tr>
+<td style="text-align:right" width="200">
+![](images/132.jpeg)
+<td>
+@. [**Catenoid limits of saddle towers**](https://doi.org/10.2140/pjm.2023.325.11)
+	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
+	[![PDF][pdf]](./documents/DegenerateTower.pdf)  
+	with [Peter Connor][connor] and Kevin Li.
+
+We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we construct families of embedded, singly periodic Karcher--Scherk saddle towers that look like parallel planes connected by small catenoid necks.
 </tr>
 
 <tr>
