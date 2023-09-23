@@ -48,9 +48,16 @@ We glue saddle towers into minimal surfaces without any assumption on the symmet
 <td style="text-align:right" width="200">
 ![](images/132.jpeg)
 <td>
+<<<<<<< HEAD
 @. [**Catenoid limits of saddle towers**](https://doi.org/10.2140/pjm.2023.325.11)
 	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
 	[![PDF][pdf]](./documents/DegenerateTower.pdf)  
+=======
+@. **Catenoid limits of saddle towers**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
+	[![PDF][pdf]](./documents/DegenerateTower.pdf)  
+	to appear in *Pacific J. Math.*  
+>>>>>>> 7a6e7f7e3f5f7781089a22b1d8fe8d77c1a18aec
 	with [Peter Connor][connor] and Kevin Li.
 
 We reproduce the result in the PhD thesis of Kevin Li.  More specifically, we construct families of embedded, singly periodic Karcher--Scherk saddle towers that look like parallel planes connected by small catenoid necks.
