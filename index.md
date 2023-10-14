@@ -35,6 +35,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. **Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**
 	[![arXiv][arxiv]](http://arxiv.org/abs/2107.06957)
 	[![PDF][pdf]](./documents/SinglyTower.pdf)  
+	to appear in *Comm. Anal. Geom.*
 
 @. **Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**
 	[![arXiv][arxiv]](http://arxiv.org/abs/2103.15676)
