@@ -49,7 +49,7 @@ We glue saddle towers into minimal surfaces without any assumption on the symmet
 <td style="text-align:right" width="200">
 ![](images/132.jpeg)
 <td>
-@. [**Catenoid limits of saddle towers**](https://doi.org/10.2140/pjm.2023.325.11)
+@. [**Catenoid limits of singly periodic minimal surfaces with Scherk-type ends**](https://doi.org/10.2140/pjm.2023.325.11)
 	[![arXiv][arxiv]](http://arxiv.org/abs/2206.08550)
 	[![PDF][pdf]](./documents/DegenerateTower.pdf)  
 	in *Pacific J. Math.*  
