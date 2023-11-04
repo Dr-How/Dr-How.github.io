@@ -40,6 +40,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. **Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**
 	[![arXiv][arxiv]](http://arxiv.org/abs/2103.15676)
 	[![PDF][pdf]](./documents/TriplyTower.pdf)  
+	to appear in *J. Reine Angew. Math.*  
 	with [Martin Traizet][traizet].
 
 We glue saddle towers into minimal surfaces without any assumption on the symmetry.  In particular, we reveal a subtle vertical interaction between the tower, which was not perceived in previous constructions.  This is the first paper presenting such our construction.  We discovered many new triply and singly periodic minimal surfaces.  For singly periodic ones, we address the technical issue of embeddedness when Scherk ends are initially parallel.  Fig. on the left from <a href="https://minimalsurfaces.blog/home/repository/triply-periodic/schoen-h-t/">Matthias Weber's repository</a>.
