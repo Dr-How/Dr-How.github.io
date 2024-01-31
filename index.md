@@ -37,7 +37,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 	[![PDF][pdf]](./documents/SinglyTower.pdf)  
 	to appear in *Comm. Anal. Geom.*
 
-@. **Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**
+@. [**Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**](https://doi.org/10.1515/crelle-2023-0086)
 	[![arXiv][arxiv]](http://arxiv.org/abs/2103.15676)
 	[![PDF][pdf]](./documents/TriplyTower.pdf)  
 	to appear in *J. Reine Angew. Math.*  
@@ -232,6 +232,18 @@ We investigate in this paper the relation between Apollonian d-ball packings and
 
 <table border="0" cellpadding="2" cellspacing="15" width="700">
 
+<tr>
+<td style="text-align:right" width="200">
+![](images/ShiftG.png)
+<td>
+@. [**Tetragonal gyroid structure from symmetry manipulation: A brand-new member of the gyroid surface family**](https://doi.org/10.1016/j.chempr.2023.12.017)
+	[![PDF][pdf]](./documents/ShiftG.pdf)  
+	in *Chem*  
+	with Shuqi Wang, Tianyu Zhong, Quanzheng Deng, Shaobo Yang, Yuanyuan Cao, Yongsheng Li, Lu Han
+	
+We report a tetragonal G substructure (shifted tG) in which one skeleton is shifted in the 001 direction, creating a periodic distributions of uneven matrix thicknesses.  I contributed with an explanation of the structure through a free energy that is locally concave in the matrix thickness.
+</tr>
+	
 <tr>
 <td style="text-align:right" width="200">
 ![](images/SD-SG.png)
