@@ -30,6 +30,18 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 
 <tr>
 <td style="text-align:right" width="200">
+![](images/CHM4.png)
+<td>
+@. **Node-opening construction of maxfaces**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2402.11965)
+	[![PDF][pdf]](./documents/Maxfaces.pdf)  
+	with Anu Dhochak, [Pradip Kumar][kumar], and Sai Rasmi Ranjan Mohanty
+
+We use the node-opening technique to construct complete maximal spacelike immersions (maxfaces) in Lorentz space that are embedded outside a compact set.  The technique is powerful for constructing minimal surfaces, but this is the first time to apply the technique on maxfaces.  The balance condition turns out to be exactly the same as for minimal surfaces, so we obtain many new examples of maxfaces including, for the first time, Lorentzian Costa and Costa--Hoffman--Meeks surfaces.  Non-planar complete maximal immersions must have singularities.  We prove that, generically, singularities on the maxfaces we construct are in the waist of the necks.  On the singular curve, all but finitely many points are cuspidal edges, and the non-cuspidal singularities are generically swallowtails.
+</tr>
+
+<tr>
+<td style="text-align:right" width="200">
 ![](images/HT.jpeg)
 <td>
 @. **Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**
@@ -40,7 +52,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**](https://doi.org/10.1515/crelle-2023-0086)
 	[![arXiv][arxiv]](http://arxiv.org/abs/2103.15676)
 	[![PDF][pdf]](./documents/TriplyTower.pdf)  
-	to appear in *J. Reine Angew. Math.*  
+	in *J. Reine Angew. Math.*  
 	with [Martin Traizet][traizet].
 
 We glue saddle towers into minimal surfaces without any assumption on the symmetry.  In particular, we reveal a subtle vertical interaction between the tower, which was not perceived in previous constructions.  This is the first paper presenting such our construction.  We discovered many new triply and singly periodic minimal surfaces.  For singly periodic ones, we address the technical issue of embeddedness when Scherk ends are initially parallel.  Fig. on the left from <a href="https://minimalsurfaces.blog/home/repository/triply-periodic/schoen-h-t/">Matthias Weber's repository</a>.
@@ -309,5 +321,6 @@ This is our attempt to fight against the trend of problematic studies being anno
  [padrol]: http://page.mi.fu-berlin.de/arnaupadrol/
  [jost]: http://www.mis.mpg.de/jjost/juergen-jost.html
  [labbe]: http://page.mi.fu-berlin.de/labbe/
+ [kumar]: https://sites.google.com/view/pradip-kumar/
  [pdf]: ./images/pdf.png
  [arxiv]: ./images/arXiv.ico
