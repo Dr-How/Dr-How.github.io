@@ -32,7 +32,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 <td style="text-align:right" width="200">
 ![](images/CHM4.png)
 <td>
-@. **Node-opening construction of maxfaces**
+@. **Singularities on maxfaces constructed by node-opening**
 	[![arXiv][arxiv]](http://arxiv.org/abs/2402.11965)
 	[![PDF][pdf]](./documents/Maxfaces.pdf)  
 	with Anu Dhochak, [Pradip Kumar][kumar], and Sai Rasmi Ranjan Mohanty
@@ -44,10 +44,10 @@ We use the node-opening technique to construct complete maximal spacelike immers
 <td style="text-align:right" width="200">
 ![](images/HT.jpeg)
 <td>
-@. **Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**
+@. [**Gluing Karcher-Scherk saddle towers II: Singly periodic minimal surfaces**](https://dx.doi.org/10.4310/CAG.241212035049)
 	[![arXiv][arxiv]](http://arxiv.org/abs/2107.06957)
 	[![PDF][pdf]](./documents/SinglyTower.pdf)  
-	to appear in *Comm. Anal. Geom.*
+	in *Comm. Anal. Geom.*
 
 @. [**Gluing Karcher-Scherk saddle towers I: Triply periodic minimal surfaces**](https://doi.org/10.1515/crelle-2023-0086)
 	[![arXiv][arxiv]](http://arxiv.org/abs/2103.15676)
@@ -106,7 +106,7 @@ We prove the existence of two 1-parameter families discovered in the 1990's, nam
 	in *SIAM J. Math. Anal.*  
 	with [Martin Traizet][traizet].
 
-We fonstruct a rich variety of doubly periodic minimal surfaces of infinite genus.  They lift to minimal surfaces in the Euclidean space that are periodic in two independent horizontal directions, but non-periodic in the vertical direction.  In the language of crystallography, our examples should be considered as disordered stacking of catenoid necks.  The TPMS twinning is then just a special case. 
+We construct a rich variety of doubly periodic minimal surfaces of infinite genus.  They lift to minimal surfaces in the Euclidean space that are periodic in two independent horizontal directions, but non-periodic in the vertical direction.  In the language of crystallography, our examples should be considered as disordered stacking of catenoid necks.  The TPMS twinning is then just a special case. 
 </tr>
 
 <tr>
