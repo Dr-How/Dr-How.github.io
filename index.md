@@ -247,7 +247,7 @@ We investigate in this paper the relation between Apollonian d-ball packings and
 <td style="text-align:right" width="200">
 ![](images/tDtDelta.png)
 <td>
-@. [**Mechanical Properties of 3D-Printed Polymeric CellularStructures Based on Bifurcating Triply PeriodicMinimal Surfaces**](https://doi.org/10.1002/adem.202402507)
+@. [**Mechanical Properties of 3D-Printed Polymeric Cellular Structures Based on Bifurcating Triply Periodic Minimal Surfaces**](https://doi.org/10.1002/adem.202402507)
 	[![PDF][pdf]](./documents/Bifurcate.pdf)  
 	in *Adv. Eng. Mater.*  
 	with Yanhong Zhang, Junming Zhang, Xiaotian Chen, Weidong Yang, Hao Chen, Shunai Che, Lu Han
