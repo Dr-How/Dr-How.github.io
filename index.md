@@ -30,6 +30,18 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 
 <tr>
 <td style="text-align:right" width="200">
+![](images/oD.png)
+<td>
+@. **Gluing doubly periodic Scherk surfaces into minimal surfaces**
+	[![arXiv][arxiv]](http://arxiv.org/abs/2507.12859)
+	[![PDF][pdf]](./documents/DoublyScherk.pdf)  
+	with Yunhua Wu
+
+We construct minimal surfaces by stacking doubly periodic Scherk surfaces one above another and gluing them along their ends. It is previously known that the Karcher--Meeks--Rosenberg (KMR) doubly periodic minimal surfaces and Meeks' family of triply periodic minimal surfaces can both be obtained by gluing two Scherk surfaces. There have been hope and failed attempts to glue more Scherk surfaces. But our analysis shows that this is impossible: Such a glue construction can only produce the trivial Scherk surface itself, the KMR examples, and Meeks' surfaces.
+</tr>
+
+<tr>
+<td style="text-align:right" width="200">
 ![](images/CHM4.png)
 <td>
 @. **Singularities on maxfaces constructed by node-opening**
