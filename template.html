@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="generator" content="pandoc" />
+	<title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+	<meta name="description" content="$if(abstract)$$abstract.plain$$endif$" />
+	<link rel="stylesheet" href="pandoc.css" />
+	$for(header-includes)$
+	$header-includes$
+	$endfor$
+</head>
+<body class="$if(theme)$theme$endif$">
+	<header class="site-header">
+		<div class="container">
+			<h1 class="site-title">$title$</h1>
+			$if(author)$<p class="site-author">$for(author)$$author$$sep$, $endfor$</p>$endif$
+		</div>
+	</header>
+
+	<main class="site-main">
+		<div class="container">
+			$body$
+		</div>
+	</main>
+
+	<footer class="site-footer">
+		<div class="container">
+			<p>
+				© <span id="year"></span> $if(author)$$for(author)$$author$$sep$, $endfor$$endif$. Generated with Pandoc.
+			</p>
+		</div>
+	</footer>
+
+	<script>
+		// Update footer year
+		document.getElementById('year').textContent = new Date().getFullYear();
+		// Make tables responsive by wrapping them
+		(function () {
+			var tables = document.querySelectorAll('table');
+			tables.forEach(function (tbl) {
+				if (!tbl.parentElement.classList.contains('table-wrapper')) {
+					var wrapper = document.createElement('div');
+					wrapper.className = 'table-wrapper';
+					tbl.parentNode.insertBefore(wrapper, tbl);
+					wrapper.appendChild(tbl);
+				}
+			});
+		})();
+	</script>
+</body>
+</html>
+
