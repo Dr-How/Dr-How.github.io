@@ -1,6 +1,5 @@
-% Chen, Hao 陳浩 Dr. rer. nat. habil.  
-%
-%
+% Chen, Hao 陳浩
+% Dr. rer. nat. habil.  
 
 :::pub
 ![ ](./images/ChenHao.jpeg){.thumb}
