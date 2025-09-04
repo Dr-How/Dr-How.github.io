@@ -145,6 +145,8 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
   We report some minimal surfaces that can be seen as copies of a triply periodic minimal surface (TPMS) related by reflections in parallel mirrors. We call them minimal twin surfaces for the resemblance with twin crystal. Brakke’s Surface Evolver is employed to construct twinnings of various classical TPMS, including Schwarz’ Primitive (P) and Diamond (D) surfaces, their rhombohedral deformations (rPD), and Schoen’s Gyroid (G) surface. Our numerical results provide strong evidences for the mathematical existence of D twins and G twins, which are recently observed in experiment by material scientists. For rPD twins, we develop a good understanding, by noticing examples previously constructed by [Traizet 08] and [Fujimori and Weber 09]. Our knowledge on G twins is, by contrast, very limited. Nevertheless, our experiments lead to new cubic polyhedral models for the D and G surfaces, inspired by which we speculate new TPMS deformations in the framework of Traizet.
 :::
 
+---
+
 ### Discrete Geometry
 
 ::: pub
@@ -233,6 +235,8 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
   <br/>
   We investigate in this paper the relation between Apollonian d-ball packings and stacked (d+1)-polytopes for dimension d≥3 . For d=3, the relation is fully described: we prove that the 1-skeleton of a stacked 4-polytope is the tangency graph of an Apollonian 3-ball packing if and only if there is no six 4-cliques sharing a 3-clique. For higher dimension, we have some partial results. (Fig. on the left from [Wikipedia](https://en.wikipedia.org/wiki/Soddy%27s_hexlet))
 :::
+
+---
 
 ### Physics
 
