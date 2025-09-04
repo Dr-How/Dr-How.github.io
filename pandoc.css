@@ -40,7 +40,6 @@ img { max-width: 100%; height: auto; border-radius: 4px; }
 .pub .thumb { flex: 0 0 200px; min-width:200px; max-width: 200px; margin: 0; }
 .pub .meta { flex: 1 1 0; }
 .pub .links img { height: 1em; width: auto; vertical-align: -2px; }
-.pub .meta br { display: block; margin-bottom: 2.0em; }
 
 /* Code */
 code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
