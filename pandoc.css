@@ -22,8 +22,8 @@ body {
 	margin: 0 auto;
 	padding: 1rem 1.25rem;
 }
-.site-title { margin: 0; font-size: 1.75rem; }
-.site-author { margin: .25rem 0 0; color: #4b5563; }
+.site-title { margin: .25rem 0 0; color: #4b5563; }
+.site-author { margin: 0; font-size: 2rem; }
 
 /* Typography */
 h1, h2, h3, h4 { line-height: 1.25; margin-top: 2rem; margin-bottom: .75rem; }
@@ -39,7 +39,6 @@ img { max-width: 100%; height: auto; border-radius: 4px; }
 .pub { display: flex; gap: 1rem; margin: 1.25rem 0; align-items: flex-start; }
 .pub .thumb { flex: 0 0 200px; min-width:200px; max-width: 200px; margin: 0; }
 .pub .meta { flex: 1 1 0; }
-.pub .links img { height: 1em; width: auto; vertical-align: -2px; }
 
 /* Responsive: stack columns and center image on mobile */
 @media (max-width: 600px) {
@@ -47,6 +46,8 @@ img { max-width: 100%; height: auto; border-radius: 4px; }
 	.pub .thumb { margin-bottom: 1rem; margin-left: auto; margin-right: auto; display: flex; justify-content: center; max-width: 100%; }
 	.pub .thumb img { display: block; margin: 0 auto; }
 }
+
+img[alt="arXiv"], img[alt="PDF"] { height: 1.5em; width: auto; vertical-align: middle; }
 
 /* Code */
 code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
