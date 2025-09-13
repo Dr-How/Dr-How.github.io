@@ -46,6 +46,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. **Singularities on maxfaces constructed by node-opening**
   [![arXiv][arxiv]](http://arxiv.org/abs/2402.11965)
   [![PDF][pdf]](./documents/Maxfaces.pdf)  
+  to appear in *Kyoto J. Math.*  
   with Anu Dhochak, [Pradip Kumar][kumar], and Sai Rasmi Ranjan Mohanty.  
   <br/>
   We use the node-opening technique to construct complete maximal spacelike immersions (maxfaces) in Lorentz space that are embedded outside a compact set.  The technique is powerful for constructing minimal surfaces, but this is the first time to apply the technique on maxfaces.  The balance condition turns out to be exactly the same as for minimal surfaces, so we obtain many new examples of maxfaces including, for the first time, Lorentzian Costa and Costa--Hoffman--Meeks surfaces.  Non-planar complete maximal immersions must have singularities.  We prove that, generically, singularities on the maxfaces we construct are in the waist of the necks.  On the singular curve, all but finitely many points are cuspidal edges, and the non-cuspidal singularities are generically swallowtails.
