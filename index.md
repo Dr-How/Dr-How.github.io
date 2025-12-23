@@ -30,6 +30,17 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ### Minimal surfaces
 
 ::: pub
+![ ](images/GHT.png){.thumb}
+
+@. **The chiral gyrating H'-T surface family: construction from the dual qtz--qzd nets and existence proof using a toroidal Weierstrass method**
+	[![arXiv][arxiv]](https://arxiv.org/abs/2512.18308)
+	[![PDF][pdf]](./documents/GyratingHT.pdf)  
+	with Shashank G. Markande, Matthias Saba, Gerd E. Schröder-Turk, Elisabetta A. Matsumoto.  
+	<br/>
+	This paper provides a construction and existence proof for a 1-parameter family of chiral unbalanced triply-periodic minimal surfaces of genus 4. We name these *gyrating H'-T surfaces*, because they are related to Schoen's H'-T surfaces in a similar way as the Gyroid is to the Primitive surface. Their chirality is manifest in a screw symmetry of order six. The two labyrinthine domains on either side of the surface are not congruent, rather one representing the quartz net (`qtz`) and the other one the dual of the quartz net (`qzd`). The family tends to the Scherk saddle tower in one limit and to the doubly periodic Scherk surface in the other. The motivation for the construction was to construct a chiral tunable unbalanced surface family, originally as a template for photonic materials. The numeric construction is based on reverse-engineering of the tubular surface of two suitably chosen dual nets, using the *Surface Evolver* to minimize area or curvature variations. The existence is proved using Weierstrass parametrizations defined on the branched torus.
+:::
+
+::: pub
 ![ ](images/oD.png){.thumb}
 
 @. **Gluing doubly periodic Scherk surfaces into minimal surfaces**
@@ -238,7 +249,18 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 
 ---
 
-### Physics
+### Non-Maths
+
+::: pub
+![ ](images/SaddleShape.png){.thumb}
+
+@. [**Evolution of Curvatures Between Lamellar and Bicontinuous Phases: Formation of Saddle-Shaped Hierarchical Lamellar Structures in Binary Self-Assembly System**](https://doi.org/10.1002/smll.202508085)
+	[![PDF][pdf]](./documents/SaddleShape.pdf)  
+	in *Small*  
+	with Shuqi Wang, Ya Li, Bin Yang, Hao Chen, Lu Han, Yuanyuan Cao, Yongsheng Li.  
+	<br/>
+	We observe an intermediate phase exhibiting characteristics with negative Gaussian curvature similar to bicontinuous phase while maintaining lamellar topologies.
+:::
 
 ::: pub
 ![ ](images/tDtDelta.png){.thumb}
