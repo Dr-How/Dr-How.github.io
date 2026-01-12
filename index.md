@@ -2,7 +2,7 @@
 % Chen, Hao 陳浩 
 
 :::pub
-![ ](./images/ChenHao.jpeg){.thumb}
+![ ](./images/ChenHao.png){.thumb}
 
 I'm an Assistant Professor at the [Institute of Mathematical Sciences](https://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/).  
 <br/>
