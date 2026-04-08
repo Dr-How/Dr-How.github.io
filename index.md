@@ -30,17 +30,6 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ### Minimal surfaces
 
 ::: pub
-![ ](images/GHT.png){.thumb}
-
-@. **The chiral gyrating H'-T surface family: construction from the dual qtz--qzd nets and existence proof using a toroidal Weierstrass method**
-	[![arXiv][arxiv]](https://arxiv.org/abs/2512.18308)
-	[![PDF][pdf]](./documents/GyratingHT.pdf)  
-	with Shashank G. Markande, Matthias Saba, Gerd E. Schröder-Turk, Elisabetta A. Matsumoto.  
-	<br/>
-	This paper provides a construction and existence proof for a 1-parameter family of chiral unbalanced triply-periodic minimal surfaces of genus 4. We name these *gyrating H'-T surfaces*, because they are related to Schoen's H'-T surfaces in a similar way as the Gyroid is to the Primitive surface. Their chirality is manifest in a screw symmetry of order six. The two labyrinthine domains on either side of the surface are not congruent, rather one representing the quartz net (`qtz`) and the other one the dual of the quartz net (`qzd`). The family tends to the Scherk saddle tower in one limit and to the doubly periodic Scherk surface in the other. The motivation for the construction was to construct a chiral tunable unbalanced surface family, originally as a template for photonic materials. The numeric construction is based on reverse-engineering of the tubular surface of two suitably chosen dual nets, using the *Surface Evolver* to minimize area or curvature variations. The existence is proved using Weierstrass parametrizations defined on the branched torus.
-:::
-
-::: pub
 ![ ](images/oD.png){.thumb}
 
 @. **Gluing doubly periodic Scherk surfaces into minimal surfaces**
@@ -49,6 +38,18 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
   with Yunhua Wu.  
   <br/>
   We construct minimal surfaces by stacking doubly periodic Scherk surfaces one above another and gluing them along their ends. It is previously known that the Karcher--Meeks--Rosenberg (KMR) doubly periodic minimal surfaces and Meeks' family of triply periodic minimal surfaces can both be obtained by gluing two Scherk surfaces. There have been hope and failed attempts to glue more Scherk surfaces. But our analysis shows that this is impossible: Such a glue construction can only produce the trivial Scherk surface itself, the KMR examples, and Meeks' surfaces.
+:::
+
+::: pub
+![ ](images/GHT.png){.thumb}
+
+@. [**The chiral gyrating H'-T surface family: construction from the dual qtz--qzd nets and existence proof using a toroidal Weierstrass method**](https://doi.org/10.1515/10.1098/rsfs.2025.0099)
+	[![arXiv][arxiv]](https://arxiv.org/abs/2512.18308)
+	[![PDF][pdf]](./documents/GyratingHT.pdf)  
+	to appear in *Interface Focus*  
+	with Shashank G. Markande, Matthias Saba, Gerd E. Schröder-Turk, Elisabetta A. Matsumoto.  
+	<br/>
+	This paper provides a construction and existence proof for a 1-parameter family of chiral unbalanced triply-periodic minimal surfaces of genus 4. We name these *gyrating H'-T surfaces*, because they are related to Schoen's H'-T surfaces in a similar way as the Gyroid is to the Primitive surface. Their chirality is manifest in a screw symmetry of order six. The two labyrinthine domains on either side of the surface are not congruent, rather one representing the quartz net (`qtz`) and the other one the dual of the quartz net (`qzd`). The family tends to the Scherk saddle tower in one limit and to the doubly periodic Scherk surface in the other. The motivation for the construction was to construct a chiral tunable unbalanced surface family, originally as a template for photonic materials. The numeric construction is based on reverse-engineering of the tubular surface of two suitably chosen dual nets, using the *Surface Evolver* to minimize area or curvature variations. The existence is proved using Weierstrass parametrizations defined on the branched torus.
 :::
 
 ::: pub
