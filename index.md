@@ -253,6 +253,17 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ### Non-Maths
 
 ::: pub
+![ ](images/Mismatched.png){.thumb}
+
+@. [**Matched and Euclidean-Mismatched Decoding on Fourier-Curve Constellations with Tangent Noise**](https://doi.org/10.1109/LCOMM.2026.3710711)
+	[![arXiv][arxiv]](https://arxiv.org/abs/2604.14844)  
+	in *IEEE Commun. Lett.*  
+	with Bin Han, Hao Chen, Muxia Sun, H. Vincent Poor, Hans D. Schotten
+	<br/>
+	We study matched and Euclidean-mismatched decoding on finite curved constellations with tangent-space artificial noise, where each symbol induces a Gaussian law with a symbol-dependent rank-one covariance. For arbitrary codeword pairs we derive a closed Euclidean pairwise error probability and an exact Gaussian-expectation representation for matched decoding. Specializing to uniform Fourier-curve codebooks, closed-form distance, chord–tangent alignment, and tangent-correlation spectra yield finite-codebook symbol-error-rate bounds for both decoders. Simulations across dimensions, codebook sizes, and noise levels are consistent with the bounds and quantify the detector-level mismatch gap; a secrecy interpretation would require separate adversary and channel models.
+:::
+
+::: pub
 ![ ](images/SaddleShape.png){.thumb}
 
 @. [**Evolution of Curvatures Between Lamellar and Bicontinuous Phases: Formation of Saddle-Shaped Hierarchical Lamellar Structures in Binary Self-Assembly System**](https://doi.org/10.1002/smll.202508085)
