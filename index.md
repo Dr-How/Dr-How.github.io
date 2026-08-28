@@ -30,6 +30,16 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ### Minimal surfaces
 
 ::: pub
+![ ](images/GDP.png){.thumb}
+
+@. **The Primitive and Diamond surfaces locally minimize the variance of Gauss curvature**
+  [![arXiv][arxiv]](https://arxiv.org/abs/2608.02120)
+  [![PDF][pdf]](./documents/GDP.pdf)  
+  <br/>
+  We prove that the Schwarz' Primitive (P) and Diamond (D) surfaces are local minimizers of the variance of Gaussian curvature among local deformations within the moduli space of triply periodic minimal surfaces of genus 3 (TPMSg3s). Our approach interprets the branch values of the Gauss map as a configuration of eight points on the sphere and expresses the variance of Gaussian curvature as the product of two integrals involving exponentials of Green's functions. We then show that the Hessian of this functional is positive definite at the cubic configuration when restricted to antipodal deformations, thereby establishing the local minimality of the P and D surfaces. Along the other deformation directions, the Hessian is positive definite except for a two-dimensional eigenspace with slightly negative eigenvalues, leaving promising hope that the Gyroid is also a local minimizer.
+:::
+
+::: pub
 ![ ](images/oD.png){.thumb}
 
 @. **Gluing doubly periodic Scherk surfaces into minimal surfaces**
@@ -46,7 +56,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**The chiral gyrating H'-T surface family: construction from the dual qtz--qzd nets and existence proof using a toroidal Weierstrass method**](https://doi.org/10.1515/10.1098/rsfs.2025.0099)
 	[![arXiv][arxiv]](https://arxiv.org/abs/2512.18308)
 	[![PDF][pdf]](./documents/GyratingHT.pdf)  
-	to appear in *Interface Focus*  
+	in *Interface Focus*  
 	with Shashank G. Markande, Matthias Saba, Gerd E. Schröder-Turk, Elisabetta A. Matsumoto.  
 	<br/>
 	This paper provides a construction and existence proof for a 1-parameter family of chiral unbalanced triply-periodic minimal surfaces of genus 4. We name these *gyrating H'-T surfaces*, because they are related to Schoen's H'-T surfaces in a similar way as the Gyroid is to the Primitive surface. Their chirality is manifest in a screw symmetry of order six. The two labyrinthine domains on either side of the surface are not congruent, rather one representing the quartz net (`qtz`) and the other one the dual of the quartz net (`qzd`). The family tends to the Scherk saddle tower in one limit and to the doubly periodic Scherk surface in the other. The motivation for the construction was to construct a chiral tunable unbalanced surface family, originally as a template for photonic materials. The numeric construction is based on reverse-engineering of the tubular surface of two suitably chosen dual nets, using the *Surface Evolver* to minimize area or curvature variations. The existence is proved using Weierstrass parametrizations defined on the branched torus.
@@ -253,12 +263,22 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ### Non-Maths
 
 ::: pub
+![ ](images/Butterfly.png){.thumb}
+
+@. **Quasi-Sinusoidal Single Diamond Structure in Royal Jewel Butterfly: An Angle-Independent Photonic Structure**
+	[![arXiv][arxiv]](https://arxiv.org/abs/2608.08540)  
+	with Yuanbo Li, Shuo Huang, Xi Wang, Congcong Cui, Yuqin Xiong, Wang Zhang, Matthias Saba, Xueyan Feng, Bo Chen, Yuanyuan Cao, Lu Han.  
+	<br/>
+	Structural colouration with narrow spectral photonic bandwidth and high reflectivity is of critical importance for modern optical applications, including displays, laser systems, and optical sensing, etc. Achieving such angle independent colouration typically relies on polycrystalline or inherent structural disorder. However, balancing angular uniformity with high brightness and strong colour contrast remains challenging. Herein, we uncover the structural origin of the spectacular bright, angle-independent blue colouration of Hypochrysops polycletus, a sapphire-like Royal Jewel butterfly. Three-dimensional (3D) electron microscopy reveals that the dorsal wing scale has a single diamond structure, a 3D photonic crystal previously documented only in beetles and weevils. The crystal domains form an extraordinary quasi sinusoidal surface geometry with a distinct template morphology-guided arrangement. Unlike typically thicker biophotonic structures that support multiple high symmetry stopbands, this design contains only 3-4 unit cells in the propagation direction. Its optical response is dominated by the fundamental stopband, with two dominant scattering mechanisms: specular reflection at the {111} inclined sidewalls of the hierarchical structure, and funnelling into localised quasi-normal modes enabled by a strongly anisotropic Bloch transport. By mimicking these features with two-photon polymerisation, we artificially reproduced the optical response in the infrared region. The study opens a pathway towards bioinspired brilliant diffuse colouration and angle-robust photonic devices.
+:::
+
+::: pub
 ![ ](images/Mismatched.png){.thumb}
 
 @. [**Matched and Euclidean-Mismatched Decoding on Fourier-Curve Constellations with Tangent Noise**](https://doi.org/10.1109/LCOMM.2026.3710711)
 	[![arXiv][arxiv]](https://arxiv.org/abs/2604.14844)  
 	in *IEEE Commun. Lett.*  
-	with Bin Han, Hao Chen, Muxia Sun, H. Vincent Poor, Hans D. Schotten
+	with Bin Han, Hao Chen, Muxia Sun, H. Vincent Poor, Hans D. Schotten.  
 	<br/>
 	We study matched and Euclidean-mismatched decoding on finite curved constellations with tangent-space artificial noise, where each symbol induces a Gaussian law with a symbol-dependent rank-one covariance. For arbitrary codeword pairs we derive a closed Euclidean pairwise error probability and an exact Gaussian-expectation representation for matched decoding. Specializing to uniform Fourier-curve codebooks, closed-form distance, chord–tangent alignment, and tangent-correlation spectra yield finite-codebook symbol-error-rate bounds for both decoders. Simulations across dimensions, codebook sizes, and noise levels are consistent with the bounds and quantify the detector-level mismatch gap; a secrecy interpretation would require separate adversary and channel models.
 :::
