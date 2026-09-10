@@ -53,7 +53,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ::: pub
 ![ ](images/GHT.png){.thumb}
 
-@. [**The chiral gyrating H'-T surface family: construction from the dual qtz--qzd nets and existence proof using a toroidal Weierstrass method**](https://doi.org/10.1515/10.1098/rsfs.2025.0099)
+@. [**The chiral gyrating H'-T surface family: construction from the dual qtz--qzd nets and existence proof using a toroidal Weierstrass method**](https://doi.org/10.1098/rsfs.2025.0099)
 	[![arXiv][arxiv]](https://arxiv.org/abs/2512.18308)
 	[![PDF][pdf]](./documents/GyratingHT.pdf)  
 	in *Interface Focus*  
