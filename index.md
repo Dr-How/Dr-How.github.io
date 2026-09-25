@@ -260,14 +260,24 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 
 ---
 
-### Non-Maths
+### Interdisciplinary
+
+::: pub
+![ ](images/Enantioselective.png){.thumb}
+
+@. **Boosting Chiral Separation through Sinuous 3D Nanochannels with Saddle-Splay Curvature in Biomimetic Membranes**  
+  to appear in *Adv. Mat.*  
+	Xiang Liang, Chenjie Lou, Zhefeng Li, Ya-Xin Li, Mingxue Tang, Xinglin Lu, <u>Hao Chen</u>, Yizhou Zhang, Pawel W. Majewski, and Xunda Feng.  
+	<br/>
+	Biological systems commonly leverage curved and geometrically complex transport pathways to create pockets and constrictions for precise molecular discrimination. In contrast, synthetic separation membranes mainly achieve selectivity through controlled pore size and surface chemistry, facing challenges in separating molecules that differ subtly in shape or stereochemistry. Here we report self-assembled polymeric membranes with sinuous 3D nanochannels whose intrinsic saddle-splay geometry boosts chiral separation. Freestanding nanoporous membranes are readily fabricated by photocuring lyotropic double-gyroid liquid crystals formed from amphiphiles bearing chiral moieties. Spatial variation in saddle-splay curvature within these gyroid nanochannels clusters chiral selectors into precisely positioned “checkpoints” and imposes strong nanoconfinement, forcing racemates to repeatedly traverse these unavoidable stereoselective sites that cumulatively amplify enantioselectivity. The highly permeable membranes achieve enantiopure separation of model racemates such as ibuprofen, with selectivity nearly 10-fold higher than their counterparts with sheet-like or cylindrical pores of comparable chemistry and size. This work establishes sinuous 3D nanochannels with saddle-splay curvature as a biomimetic structural motif for amplifying chiral recognition in synthetic membranes.
+:::
 
 ::: pub
 ![ ](images/Butterfly.png){.thumb}
 
 @. **Quasi-Sinusoidal Single Diamond Structure in Royal Jewel Butterfly: An Angle-Independent Photonic Structure**
 	[![arXiv][arxiv]](https://arxiv.org/abs/2608.08540)  
-	with Yuanbo Li, Shuo Huang, Xi Wang, Congcong Cui, Yuqin Xiong, Wang Zhang, Matthias Saba, Xueyan Feng, Bo Chen, Yuanyuan Cao, Lu Han.  
+	Yuanbo Li, Shuo Huang, Xi Wang, Congcong Cui, <u>Hao Chen</u>, Yuqin Xiong, Wang Zhang, Matthias Saba, Xueyan Feng, Bo Chen, Yuanyuan Cao, Lu Han.  
 	<br/>
 	Structural colouration with narrow spectral photonic bandwidth and high reflectivity is of critical importance for modern optical applications, including displays, laser systems, and optical sensing, etc. Achieving such angle independent colouration typically relies on polycrystalline or inherent structural disorder. However, balancing angular uniformity with high brightness and strong colour contrast remains challenging. Herein, we uncover the structural origin of the spectacular bright, angle-independent blue colouration of Hypochrysops polycletus, a sapphire-like Royal Jewel butterfly. Three-dimensional (3D) electron microscopy reveals that the dorsal wing scale has a single diamond structure, a 3D photonic crystal previously documented only in beetles and weevils. The crystal domains form an extraordinary quasi sinusoidal surface geometry with a distinct template morphology-guided arrangement. Unlike typically thicker biophotonic structures that support multiple high symmetry stopbands, this design contains only 3-4 unit cells in the propagation direction. Its optical response is dominated by the fundamental stopband, with two dominant scattering mechanisms: specular reflection at the {111} inclined sidewalls of the hierarchical structure, and funnelling into localised quasi-normal modes enabled by a strongly anisotropic Bloch transport. By mimicking these features with two-photon polymerisation, we artificially reproduced the optical response in the infrared region. The study opens a pathway towards bioinspired brilliant diffuse colouration and angle-robust photonic devices.
 :::
@@ -278,7 +288,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Matched and Euclidean-Mismatched Decoding on Fourier-Curve Constellations with Tangent Noise**](https://doi.org/10.1109/LCOMM.2026.3710711)
 	[![arXiv][arxiv]](https://arxiv.org/abs/2604.14844)  
 	in *IEEE Commun. Lett.*  
-	with Bin Han, Hao Chen, Muxia Sun, H. Vincent Poor, Hans D. Schotten.  
+	Bin Han, <u>Hao Chen</u>, Muxia Sun, H. Vincent Poor, Hans D. Schotten.  
 	<br/>
 	We study matched and Euclidean-mismatched decoding on finite curved constellations with tangent-space artificial noise, where each symbol induces a Gaussian law with a symbol-dependent rank-one covariance. For arbitrary codeword pairs we derive a closed Euclidean pairwise error probability and an exact Gaussian-expectation representation for matched decoding. Specializing to uniform Fourier-curve codebooks, closed-form distance, chord–tangent alignment, and tangent-correlation spectra yield finite-codebook symbol-error-rate bounds for both decoders. Simulations across dimensions, codebook sizes, and noise levels are consistent with the bounds and quantify the detector-level mismatch gap; a secrecy interpretation would require separate adversary and channel models.
 :::
@@ -289,7 +299,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Evolution of Curvatures Between Lamellar and Bicontinuous Phases: Formation of Saddle-Shaped Hierarchical Lamellar Structures in Binary Self-Assembly System**](https://doi.org/10.1002/smll.202508085)
 	[![PDF][pdf]](./documents/SaddleShape.pdf)  
 	in *Small*  
-	with Shuqi Wang, Ya Li, Bin Yang, Hao Chen, Lu Han, Yuanyuan Cao, Yongsheng Li.  
+	Shuqi Wang, Ya Li, Bin Yang, <u>Hao Chen</u>, Lu Han, Yuanyuan Cao, Yongsheng Li.  
 	<br/>
 	We observe an intermediate phase exhibiting characteristics with negative Gaussian curvature similar to bicontinuous phase while maintaining lamellar topologies.
 :::
@@ -300,7 +310,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Mechanical Properties of 3D-Printed Polymeric Cellular Structures Based on Bifurcating Triply Periodic Minimal Surfaces**](https://doi.org/10.1002/adem.202402507)
   [![PDF][pdf]](./documents/Bifurcate.pdf)  
   in *Adv. Eng. Mater.*  
-  with Yanhong Zhang, Junming Zhang, Xiaotian Chen, Weidong Yang, Hao Chen, Shunai Che, Lu Han.  
+  Yanhong Zhang, Junming Zhang, Xiaotian Chen, Weidong Yang, <u>Hao Chen</u>, Shunai Che, Lu Han.  
   <br/>
   We study mechanical properties and deformation mechanisms of eight recently discovered bifurcating TPMSs.  Interestingly, some structures exhibit enhanced strength compared to classical counterparts.
 :::
@@ -311,7 +321,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Tetragonal gyroid structure from symmetry manipulation: A brand-new member of the gyroid surface family**](https://doi.org/10.1016/j.chempr.2023.12.017)
   [![PDF][pdf]](./documents/ShiftG.pdf)  
   in *Chem*  
-  with Shuqi Wang, Tianyu Zhong, Quanzheng Deng, Shaobo Yang, Yuanyuan Cao, Yongsheng Li, Lu Han.  
+  Shuqi Wang, <u>Hao Chen</u>, Tianyu Zhong, Quanzheng Deng, Shaobo Yang, Yuanyuan Cao, Yongsheng Li, Lu Han.  
   <br/>
   We report a tetragonal G substructure (shifted tG) in which one skeleton is shifted in the 001 direction, creating a periodic distributions of uneven matrix thicknesses.  I contributed with an explanation of the structure through a free energy that is locally concave in the matrix thickness.
 :::
@@ -322,12 +332,12 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Direct imaging of the structural transition and interconversion of macroporous bicontinuous diamond-surface structure**](https://doi.org/10.1016/j.micromeso.2021.111084)
   [![PDF][pdf]](./documents/L-DD.pdf)  
   in *Micropor. Mesopor. Mat.*  
-  with Chao Bao, Shun'ai Che, Lu Han.  
+  Chao Bao, <u>Hao Chen</u>, Shun'ai Che, Lu Han.  
 
 @. [**Self-Assembly of Single Diamond Surface Networks**](https://doi.org/10.1002/anie.202102056)
   [![PDF][pdf]](./documents/SD-SG.pdf)  
   in *Angew. Chem. Int.*  
-  with Qingqing Sheng, Wenting Mao, Congcong Cui, Shun'ai Che, Lu Han.  
+  Qingqing Sheng, <u>Hao Chen</u>, Wenting Mao, Congcong Cui, Shun'ai Che, Lu Han.  
   <br/>
   The first paper reports intermediate structures during the transition between lamellar phases and bicontinuous diamond phases.  The second paper reports a coexistence of single diamond and single gyroid structures.  I contributed in both with explanations of the experimental observations inspired by the node-opening technique in differential geometry.
 :::
@@ -339,7 +349,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
   [![arXiv][arxiv]](http://arxiv.org/abs/1702.04172)
   [![PDF][pdf]](./documents/Bilayer.pdf)  
   in *Interface Focus*  
-  with [Chenyu Jin](https://scholar.google.de/citations?user=4rlI2JsAAAAJ).  
+  <u>Hao Chen</u>, [Chenyu Jin](https://scholar.google.de/citations?user=4rlI2JsAAAAJ).  
   <br/>
   It is commonly considered that the frustration between the curvature energy and the chain stretching energy plays an important role in the formation of lyotropic liquid crystals in bicontinuous cubic phases. Theoretic and numeric calculations were performed for two extreme cases: parallel surfaces eliminate the variance of the chain length; constant mean curvature surfaces eliminate the variance of the mean curvature. We have implemented a model with Brakke's Surface Evolver which allows a competition between the two variances. The result shows a compromise of the two limiting geometries. With data from real systems, we are able to recover the gyroid–diamond–primitive phase sequence which was observed in experiments.
 :::
@@ -350,7 +360,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 @. [**Crystal twinning of bicontinuous cubic structures**](https://doi.org/10.1107/S2052252519017287)
   [![PDF][pdf]](./documents/HLTwin.pdf)  
   in *IUCrJ*  
-  with Lu Han, Nobuhisa Fujita, Chenyu Jin, Osamu Terasaki, Shun'ai Che.  
+  Lu Han, Nobuhisa Fujita, <u>Hao Chen</u>, Chenyu Jin, Osamu Terasaki, Shun'ai Che.  
   <br/>
   A collaboration with physicists.  We performed an in-depth analysis of the twinning structures observed in experiments.
 :::
@@ -362,7 +372,7 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
   [![PDF][pdf]](./documents/COVID19.pdf)
   [DASH](https://dash.harvard.edu/handle/1/42689379)
   [HAL](https://hal.archives-ouvertes.fr/hal-02897822)  
-  with Ziming Du, Yu Kang, Zhenyu Lin, Zhenjun Ma.  
+  <u>Hao Chen</u>, Ziming Du, Yu Kang, Zhenyu Lin, Zhenjun Ma.  
   <br/>
   This is our attempt to fight against the trend of problematic studies being announced by press release.  In this case, it is a Harvard study that "analyses" satellite images of hospital parking lots and internet search trends, and suggests that the COVID-19 outbreak started in Wuhan, China in August 2019, four months earlier than documented.  We identify many problems in this study, including but not limited to: inappropriate and insufficient data, misuse and misinterpretation of statistical methods, and cherry-picking internet search terms. We also reflect on scientific publishing in a time of public emergency.
 :::
