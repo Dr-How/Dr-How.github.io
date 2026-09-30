@@ -8,7 +8,7 @@ I'm an Assistant Professor at the [Institute of Mathematical Sciences](https://i
 <br/>
 I worked at the [Discrete Differential Geometry Lab](http://ddg.math.uni-goettingen.de/) of the [Georg-August-Univerität Göttingen](https://www.uni-goettingen.de/), funded by DFG individual grant under the project ["Defects in Triply Periodic Minimal Surfaces" (Projekt number 398759432)](http://gepris.dfg.de/gepris/projekt/398759432).  There, I get my Habilitation in June 2021.  Before that, I worked at or visited MSRI (Berkeley), Luxembourg, St Andrews, Eindhoven, and FU Berlin.  
 <br/>
-I get my PhD at the Free University of Berlin in discrete geometry.  My interest in this direction include polytopes, sphere packings and so on, preferably in non-Euclidean and high dimensional spaces.  I was recently habilitated at the University of Göttingen for differential geometric works, mainly on minimal surfaces and their applications in material sciences.  
+I get my PhD at the Free University of Berlin in discrete geometry.  My interest in this direction include polytopes, sphere packings and so on, preferably in non-Euclidean and high dimensional spaces.  I'm still actively working on the intersection of combinatorics and geometry.
 <br/>
 See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pdf), also my profile pages on [arXiv](http://arxiv.org/a/chen_h_3), [Google Scholar](https://scholar.google.de/citations?user=SdY1GDkAAAAJ), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/982872), [ORCID](https://orcid.org/0000-0003-1087-2868), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55206801800), and [publons](https://publons.com/researcher/3094481/hao-chen/).  
 :::
