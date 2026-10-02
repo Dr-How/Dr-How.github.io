@@ -265,8 +265,8 @@ See my [CV](./documents/CV.pdf) and [research statement](./documents/Research.pd
 ::: pub
 ![ ](images/Enantioselective.png){.thumb}
 
-@. **Boosting Chiral Separation through Sinuous 3D Nanochannels with Saddle-Splay Curvature in Biomimetic Membranes**  
-  to appear in *Adv. Mat.*  
+@. [**Boosting Chiral Separation through Sinuous 3D Nanochannels with Saddle-Splay Curvature in Biomimetic Membranes**](https://doi.org/10.1002/adma.75177)  
+  in *Adv. Mat.*  
 	Xiang Liang, Chenjie Lou, Zhefeng Li, Ya-Xin Li, Mingxue Tang, Xinglin Lu, <u>Hao Chen</u>, Yizhou Zhang, Pawel W. Majewski, and Xunda Feng.  
 	<br/>
 	Biological systems commonly leverage curved and geometrically complex transport pathways to create pockets and constrictions for precise molecular discrimination. In contrast, synthetic separation membranes mainly achieve selectivity through controlled pore size and surface chemistry, facing challenges in separating molecules that differ subtly in shape or stereochemistry. Here we report self-assembled polymeric membranes with sinuous 3D nanochannels whose intrinsic saddle-splay geometry boosts chiral separation. Freestanding nanoporous membranes are readily fabricated by photocuring lyotropic double-gyroid liquid crystals formed from amphiphiles bearing chiral moieties. Spatial variation in saddle-splay curvature within these gyroid nanochannels clusters chiral selectors into precisely positioned “checkpoints” and imposes strong nanoconfinement, forcing racemates to repeatedly traverse these unavoidable stereoselective sites that cumulatively amplify enantioselectivity. The highly permeable membranes achieve enantiopure separation of model racemates such as ibuprofen, with selectivity nearly 10-fold higher than their counterparts with sheet-like or cylindrical pores of comparable chemistry and size. This work establishes sinuous 3D nanochannels with saddle-splay curvature as a biomimetic structural motif for amplifying chiral recognition in synthetic membranes.
